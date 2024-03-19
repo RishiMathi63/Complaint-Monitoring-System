@@ -1,0 +1,79 @@
+{
+  "contact": [
+    {
+      "name": "aaa",
+      "email": "a@gmail.com",
+      "msg": "hii",
+      "id": "12bc"
+    },
+    {
+      "id": "738a",
+      "name": "asda",
+      "email": "dfsfs@gmail.com",
+      "msg": "hju\n"
+    },
+    {
+      "id": "0659",
+      "name": "asdf",
+      "email": "as@gmail.com",
+      "msg": "ertyu"
+    },
+    {
+      "id": "4d49",
+      "name": "dd",
+      "email": "dd@gmail.com",
+      "msg": "hello"
+    }
+  ],
+  "work": [
+    {
+      "name": "asa",
+      "organisation": "123",
+      "complaint": "abc",
+      "id": "aff3"
+    },
+    {
+      "id": "5a21",
+      "name": "afdgh",
+      "organisation ": "ghsx",
+      "complaint": "agshfsagf"
+    },
+    {
+      "id": "69dd",
+      "name": "adsad",
+      "organisation ": "adsd",
+      "complaint": "asds"
+    },
+    {
+      "id": "918c",
+      "name": "latha",
+      "organisation ": "student",
+      "complaint": "worst prj"
+    }
+  ],
+  "users": [
+    {
+      "username": "aaa",
+      "email": "a@gmail.com",
+      "password": "12bc"
+    },
+    {
+      "id": "b07f",
+      "username": "dt",
+      "email": "rd@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "3d37",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "f13a",
+      "username": "gopal",
+      "email": "gopal@gmail.com",
+      "password": "123"
+    }
+  ]
+}
